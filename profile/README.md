@@ -187,4 +187,4 @@ npm run build:design
 
 ## 交流群
 
-<img src="readme/qq.png"/>
+<img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/qq.png"/>
