@@ -35,24 +35,24 @@
 </tr>
 
 <tr>
-<td align="center"><img src="readme/order_design.png"/></td>
-<td align="center"><img src="readme/order_preview.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/order_design.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/order_preview.png"/></td>
 </tr>
 <tr>
-<td align="center"><img src="readme/mail_design.png"/></td>
-<td align="center"><img src="readme/mail_preview.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/mail_design.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/mail_preview.png"/></td>
 </tr>
 <tr>
-<td align="center"><img src="readme/client_design.png"/></td>
-<td align="center"><img src="readme/client_preview.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/client_design.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/client_preview.png"/></td>
 </tr>
 <tr>
-<td align="center"><img src="readme/jj_design.png"/></td>
-<td align="center"><img src="readme/jj_preview.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/jj_design.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/jj_preview.png"/></td>
 </tr>
 <tr>
 <td align="center">QQ交流群</td>
-<td align="center"><img src="readme/qq.png"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/qq.png"/></td>
 </tr>
 </table>
 
