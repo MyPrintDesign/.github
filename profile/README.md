@@ -26,7 +26,7 @@
 
 ## 有图有真相
 
-<img src="readme/demo_main.png"/>
+<img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/demo_main.png"/>
 <table width="100%" align="center">
 
 <tr>
