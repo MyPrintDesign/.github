@@ -181,6 +181,11 @@ npm run dev
 
 ### 打包
 
+
+### 爱发电主页
+
+https://ifdian.net/a/q-jiangshuihu
+
 ```sh
 npm run build:design
 ```
