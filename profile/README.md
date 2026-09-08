@@ -181,11 +181,6 @@ npm run dev
 
 ### 打包
 
-
-### 爱发电主页
-
-https://ifdian.net/a/q-jiangshuihu
-
 ```sh
 npm run build:design
 ```
@@ -193,3 +188,7 @@ npm run build:design
 ## 交流群
 
 <img src="https://raw.githubusercontent.com/MyPrintDesign/myprint/main/readme/qq.png"/>
+
+## 爱发电主页
+
+https://ifdian.net/a/q-jiangshuihu
